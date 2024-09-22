@@ -9,14 +9,17 @@ redirect_from:
 
 This
 
-A data-driven personal website
+Personal profile
 ======
 test
 
-**Markdown generator**
+Research Direction
 ======
+**Marchenko Imaging**
+test
+**Image stitching**
 test
 
-For more info
+Additionally
 ======
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
