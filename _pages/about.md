@@ -16,9 +16,9 @@ test
 Research Direction
 ======
 **Marchenko Imaging**
-test
+test.
 **Image stitching**
-test
+test.
 
 Additionally
 ======
