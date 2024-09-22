@@ -22,8 +22,8 @@ repository               : "JindaLiu/JindaLiu.github.io"
 author:
   # Biographic information
   avatar           : "JindaLiu-Profile.png"
-  name             : "Jinda Liu"
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "   Jinda Liu"
+  bio              : "Research direction: Marchenko Imaging, Digital Image Processing" # Short biography for the left-hand sidebar
   location         : "Zhengzhou / Henan / China"
   employer         : "Zhengzhou University"
   uri              : https://JindaLiu.github.io # URL
