@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2020-2021: Full-time Teachers
+* 2020-2021: Full-time Teacher
   * Zhengzhou University of Industrial Technology
 
 * 2019-2020: Research Assistant
