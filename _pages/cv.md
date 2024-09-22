@@ -19,8 +19,3 @@ Work experience
 ======
 * 2020-2021: Full-time Teachers
   * Zhengzhou University of Industrial Technology
-
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
