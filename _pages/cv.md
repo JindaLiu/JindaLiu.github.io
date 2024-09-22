@@ -19,3 +19,7 @@ Work experience
 ======
 * 2020-2021: Full-time Teachers
   * Zhengzhou University of Industrial Technology
+
+* 2019-2020: Research Assistant
+  * Tianjin University
+  * Supervisor: Qifeng Li
