@@ -1,24 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages for Jinda"
+title: "Hi! Welcome to my personal homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This
+This is my personal homepage, used to share my scientific research and personal life.
 
 Personal profile
 ======
-test
+I am a curious and creative researcher with a strong interest in geophysics and computers. Through my doctoral experience at Jilin University, I have accumulated a solid theoretical foundation.
+In life, I like watching movies, taking walks, listening to music and other activities, and I like a minimalist lifestyle.
 
 Research Direction
 ======
-**Marchenko Imaging**
-test.
-**Image stitching**
-test.
+**Marchenko Imaging**: is a very effective seismic migration method that can handle the problem of internal multiples very well.
+**Image stitching** is a computer vision technique that combines multiple images into a single panoramic or high-resolution image. This is often done by identifying overlapping regions between images and then stitching them together based on their corresponding features. Applications of image stitching include creating panoramic photos, virtual tours, and high-resolution images for scientific research.
 
 Additionally
 ======
